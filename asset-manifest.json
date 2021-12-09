@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-ip-tracker/static/css/main.1c9c7e67.chunk.css",
-    "main.js": "/react-ip-tracker/static/js/main.b15643ed.chunk.js",
-    "main.js.map": "/react-ip-tracker/static/js/main.b15643ed.chunk.js.map",
+    "main.js": "/react-ip-tracker/static/js/main.ad33fb3d.chunk.js",
+    "main.js.map": "/react-ip-tracker/static/js/main.ad33fb3d.chunk.js.map",
     "runtime-main.js": "/react-ip-tracker/static/js/runtime-main.56d992ce.js",
     "runtime-main.js.map": "/react-ip-tracker/static/js/runtime-main.56d992ce.js.map",
     "static/js/2.36e84763.chunk.js": "/react-ip-tracker/static/js/2.36e84763.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.56d992ce.js",
     "static/js/2.36e84763.chunk.js",
     "static/css/main.1c9c7e67.chunk.css",
-    "static/js/main.b15643ed.chunk.js"
+    "static/js/main.ad33fb3d.chunk.js"
   ]
 }
